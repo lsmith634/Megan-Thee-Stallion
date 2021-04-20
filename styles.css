@@ -1,0 +1,47 @@
+img {
+    width: 50%;
+}
+
+.Megan {
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    border: 10px dashed black;
+    padding: 10px;
+    margin: 15px;
+}
+
+.info {
+    padding: 10px;
+    margin: 15px;
+}
+
+.border {
+    border: 10px dashed black;
+}
+
+.quotes {
+    padding: 10px;
+    margin: 15px;
+}
+
+.red {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background: url(https://i.pinimg.com/736x/3d/9d/1e/3d9d1eab36aca809fef2f8e9e3caa03d.jpg);
+}
+
+h1 {
+    text-align: center;
+    color: White;
+}
+
+p {
+    text-align: center;
+    color: White;
+}
